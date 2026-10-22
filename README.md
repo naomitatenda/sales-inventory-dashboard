@@ -9,6 +9,9 @@ An interactive Sales and Inventory Dashboard developed using Microsoft Power BI 
 - Track stock on hand and reorder levels.
 - Identify products that require restocking.
 - Explore sales data using interactive filters.
+## Dashboard Preview
+
+![Sales and Inventory Dashboard](dashboard-preview.png)
 
 ## Tools and Technologies
 - Microsoft Power BI
