@@ -11,7 +11,7 @@ An interactive Sales and Inventory Dashboard developed using Microsoft Power BI 
 - Explore sales data using interactive filters.
 ## Dashboard Preview
 
-![Sales and Inventory Dashboard](dashboard-preview.png)
+![Sales and Inventory Dashboard](retail dashboard.png)
 
 ## Tools and Technologies
 - Microsoft Power BI
